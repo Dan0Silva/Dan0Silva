@@ -17,7 +17,7 @@
   <img align="center" alt="Dan-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Dan-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
-  <img align="right" alt="Dan-pic" height="150" style="border-radius: 90px;" src="https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif">
+  <img align="right" alt="Dan-pic" height="150" style="border-radius: 90px;" src="https://i.pinimg.com/originals/0e/04/3c/0e043c83e0a7ea2919ebd0a925efe2c3.jpg">
 </div>
   
   ##
