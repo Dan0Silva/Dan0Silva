@@ -3,13 +3,15 @@
 ### My name is Danilo, and i study automated tests, in addition to python, java and a little javascript
     Thanks for looking my github
 
-<div align="center">
+<!-- <div align="center">
   
   <a href="https://github.com/Dan-Sillva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan-Sillva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Sillva&layout=compact&langs_count=7&theme=dark"/>
     
-</div>
+</div> -->
+
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Dan-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
