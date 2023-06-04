@@ -2,8 +2,8 @@
 <h1 align="center">=-== Welcome ==-=</h1>
 
 <div style="display: inline_block" align="center"> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan0Silva&show_icons=true&theme=codeSTACKr&hide=prs,issues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan0Silva&layout=compact&theme=codeSTACKr">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Dan0Silva&show_icons=true&theme=codeSTACKr&hide=prs,issues">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan0Silva&layout=compact&theme=codeSTACKr">
 </div>
 
 <br/>
