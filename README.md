@@ -37,7 +37,9 @@
 </div>
   
   ##
-  
+
+
+<!--   JOGO DA COBRINHA COM OS ASULEJOS DO GIT
 <div align="center">
  
  <a href="https://t.me/wdSenpai" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
@@ -46,3 +48,5 @@
   
  ![Snake animation](https://github.com/Dan-Sillva/Dan-Sillva/blob/output/github-contribution-grid-snake.svg)
 </div>
+-->
+
