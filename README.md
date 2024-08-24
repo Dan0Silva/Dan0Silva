@@ -18,12 +18,13 @@ function main() {
 </div>
 
 <br/>
+<br/>
 
 ## Stats
 
 <div style="display: inline_block" align="center"> <br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Dan0Silva&show_icons=true&theme=codeSTACKr&hide=prs,issues">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan0Silva&layout=compact&theme=codeSTACKr">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dan0Silva&show_icons=true&theme=codeSTACKr&hide=prs,issues">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan0Silva&layout=compact&theme=codeSTACKr">
 </div>
 
 <!-- <div width="180em" align="center">
