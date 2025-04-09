@@ -1,9 +1,11 @@
 ## About me
 
 <div style="display: inline_block" >
-  <img align="left" height="270px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp">
+  <img align="left" height="260px" src="https://i.giphy.com/kjETcOXKdbYLS.webp">
+<!--   <img align="left" height="270px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp"> -->
 
 ```javascript
+
 function main() {
   const user = {
     name: "Danilo A. Silva",
@@ -14,6 +16,7 @@ function main() {
 
   console.log("Hello, my name is " + user.name) 
 }
+
 ```
 </div>
 
