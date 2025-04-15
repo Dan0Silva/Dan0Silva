@@ -15,6 +15,8 @@ function main() {
   }
 
   console.log("Hello, my name is " + user.name) 
+
+main()
 }
 
 ```
