@@ -22,7 +22,6 @@ main()
 </div>
 
 <br/>
-<br/>
 
 ## Stats
 
