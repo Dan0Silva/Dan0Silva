@@ -1,7 +1,7 @@
 ## About me
 
 <div style="display: inline_block" >
-<img align="left" height="270px" style="margin-right: 20px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp5MTR0aWkzNTNlem9yMzdjcGw5Y3oyeDB2dGVlY2xwdXNxNnExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif">
+<img align="left" height="260px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI5c3hmajBnZDRpMWh0eWRhaDVkcTI5bmR3cnp2cHByYTJxczFkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif">
 <!--   <img align="left" height="270px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp"> -->
 
 ```javascript
