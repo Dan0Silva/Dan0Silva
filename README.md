@@ -9,9 +9,9 @@
 function main() {
   const user = {
     name: "Danilo A. Silva",
-    whatDoIDo: "Quality Assurance & Software Enthusiast",
+    whatDoIDo: "Software developer",
 
-    location: [["Unaí", "MG"], ["Brasilia", "DF"]],
+    location: [["Brasilia", "DF"], ["Unaí", "MG"], ["Anápolis", "GO"]],
   }
 
   console.log("Hello, my name is " + user.name) 
