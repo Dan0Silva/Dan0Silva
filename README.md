@@ -2,7 +2,7 @@
 
 <div style="display: inline_block" >
 <!-- <img align="left" height="260px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI5c3hmajBnZDRpMWh0eWRhaDVkcTI5bmR3cnp2cHByYTJxczFkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif"> -->
-  <img align="left" height="260px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp">
+  <img align="left" height="250px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp">
 
 ```javascript
 
