@@ -1,9 +1,12 @@
 ## About me
 
 <div style="display: inline_block" >
-<!-- <img align="left" height="260px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI5c3hmajBnZDRpMWh0eWRhaDVkcTI5bmR3cnp2cHByYTJxczFkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif"> -->
-  <img align="left" height="250px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp">
-
+<!-- <img align="left" height="260px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI5c3hmajBnZDRpMWh0eWRhaDVkcTI5bmR3cnp2cHByYTJxczFkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/
+    <img align="left" height="250px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp">
+  giphy.gif"> -->
+  
+  <img align="left" height="250px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg5bDJ5NGIxajh4bHQzd245aGswd216bXdrM3hsOGpnOWdkZjVnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.webp">
+  
 ```javascript
 
 function main() {
@@ -26,8 +29,8 @@ main()
 ## Stats
 
 <div style="display: inline_block" align="center"> <br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dan0Silva&show_icons=true&theme=codeSTACKr&hide=prs,issues">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan0Silva&layout=compact&theme=codeSTACKr">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dan0Silva&show_icons=true&theme=dark&hide=prs,issues">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan0Silva&layout=compact&theme=dark">
 </div>
 
 <!-- <div width="180em" align="center">
@@ -37,11 +40,13 @@ main()
 
 <div style="display: inline_block" align="center"><br>
 
-  <img align="center" alt="Dan-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Dan-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Dan-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Dan-cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
+  <img align="center" alt="Dan-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  
+  <img align="center" alt="Dan-golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="Dan-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Dan-archlinux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  <img align="center" alt="Dan-fedora" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" />
 
   <!-- 
     <img align="center" alt="Dan-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
