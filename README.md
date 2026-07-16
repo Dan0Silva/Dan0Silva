@@ -30,7 +30,7 @@ main()
 
 <div style="display: inline_block" align="center"> <br>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dan0Silva&show_icons=true&theme=dark&hide=prs,issues">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dan0Silva&layout=compact&theme=dark">
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dan0Silva&layout=compact&theme=dark">
 </div>
 
 <!-- <div width="180em" align="center">
