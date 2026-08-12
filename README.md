@@ -12,7 +12,7 @@
 function main() {
   const user = {
     name: "Danilo A. Silva",
-    whatDoIDo: "Software developer",
+    whatDoIDo: ["Software developer", "Cybersecurity enthusiast"],
 
     location: [["Brasilia", "DF"], ["Unaí", "MG"], ["Anápolis", "GO"]],
   }
