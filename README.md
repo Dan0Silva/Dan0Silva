@@ -30,7 +30,9 @@ main()
 
 <div style="display: inline_block" align="center"> <br>
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dan0Silva&theme=vue-dark&hide_border=false">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Dan0Silva&theme=vue-dark&show_icons=true&hide_border=false&count_private=false">
+  <!--
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Dan0Silva&theme=vue-dark&show_icons=true&hide_border=false&count_private=false">
+    -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan0Silva&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
 </div>
 
