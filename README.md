@@ -29,8 +29,9 @@ main()
 ## Stats
 
 <div style="display: inline_block" align="center"> <br>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dan0Silva&show_icons=true&theme=dark&hide=prs,issues">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dan0Silva&layout=compact&theme=dark">
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dan0Silva&theme=vue-dark&hide_border=false">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Dan0Silva&theme=vue-dark&show_icons=true&hide_border=false&count_private=false">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan0Silva&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 <!-- <div width="180em" align="center">
